@@ -181,7 +181,9 @@ Assets
 
 ## ⚙️ Pending Tasks
 
-* Further tweak handOffset per screen resolution
+None – all assessment requirements have been implemented
+
+---
 
 ---
 
@@ -189,4 +191,4 @@ Assets
 
 Created by Abdulaziz Mohammed Almutairi for Steer Elite Internship Program – Tech UI Track (2025)
 
-GitHub: [https://github.com/AbdulazizDev00/SteerEliteSkillsAssessmentTechUITrack]
+GitHub : https://github.com/AbdulazizDev00/SteerEliteSkillsAssessmentTechUITrack 
