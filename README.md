@@ -1,6 +1,6 @@
 # Steer Elite Internship Program Skills Assessment Tech UI Track – Main Menu UI
 
-This Unity project implements the Main Menu UI for the Steer Elite Internship Program – Tech UI Track (2025 Cohort), using Unity UI Framework only (Canvas, Image, Button, TextMeshPro).
+This Unity project implements the Main Menu UI for the Steer Elite Internship Program – Tech UI Track (2025 Cohort), using Unity UI Framework only (Canvas, Image, Button, TextMeshPro)
 
 ---
  ![Image Alt](https://github.com/AbdulazizDev00/SteerEliteSkillsAssessmentTechUITrack/blob/60c4bee8782961e76ea7dd57bc6cebea6a6c515b/Menu.png)
